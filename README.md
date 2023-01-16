@@ -1,0 +1,1 @@
+Cassette tape loop simulation, with real-time adjustable playback speed. Replays audio recorded from the host’s audio input device. Wrote unit tests to verify tape contents after processing through various methods.
