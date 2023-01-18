@@ -3,6 +3,10 @@
 <JUCERPROJECT id="wPEIbK" name="tapeplayervst" projectType="audioplug" jucerVersion="5.4.3">
   <MAINGROUP id="GLxoGX" name="tapeplayervst">
     <GROUP id="{A64F3BFE-85F0-1AEC-875D-0C3BA40CD227}" name="Source">
+      <FILE id="YVqRdU" name="TapeLoop.cpp" compile="1" resource="0" file="Source/TapeLoop.cpp"/>
+      <FILE id="ZBVdEZ" name="TapeLoop.h" compile="0" resource="0" file="Source/TapeLoop.h"/>
+      <FILE id="zLxnXb" name="TapeTest.cpp" compile="1" resource="0" file="Source/TapeTest.cpp"/>
+      <FILE id="i7U2Yt" name="TapeTest.h" compile="0" resource="0" file="Source/TapeTest.h"/>
       <FILE id="vRXuym" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="SsBhP0" name="PluginProcessor.h" compile="0" resource="0"
